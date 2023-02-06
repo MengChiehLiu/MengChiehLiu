@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+![Leetcode Stats](https://leetcode.com/MengChiehLiu/)
 <!--
 **MengChiehLiu/MengChiehLiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
