@@ -1,4 +1,4 @@
-### 挑戰一天一題LeetCode中!!!  
+### LeetCode!  
 ![LeetCode Stats](https://leetcard.jacoblin.cool/MengChiehLiu?theme=light&font=Ubuntu&ext=heatmap)
 <!--
 **MengChiehLiu/MengChiehLiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
